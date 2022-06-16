@@ -1,0 +1,8 @@
+opencv-python
+time
+requests
+numpy
+pillow
+streamlit
+tensorflow
+streamlit_lottie

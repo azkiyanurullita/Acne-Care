@@ -1,6 +1,5 @@
 # Import Libraries
 import cv2
-import time
 import requests
 import numpy as np
 from PIL import Image

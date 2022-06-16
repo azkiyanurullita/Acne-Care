@@ -1,8 +1,7 @@
-pip
-opencv-python
-requests
 numpy
-pillow
+opencv-python-headless
+Pillow
+requests
 streamlit
+streamlit-lottie
 tensorflow
-streamlit_lottie

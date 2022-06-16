@@ -7,6 +7,7 @@ Acne Care adalah aplikasi sistem pendeteksi dan klasifikasi tingkat keparahan ma
 
 # Model .h5
 Download saved model here⬇️
+https://drive.google.com/file/d/1dPoAdvkBAyCP_tls6sZya7lNWKq3SZnz/view?usp=sharing
 
 # Anggota Kelompok
 
